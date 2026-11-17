@@ -1,0 +1,10 @@
+# Sobe só o site (app/) e a automação de publicação.
+# Prints, fotos brutas, vídeos, briefing e ferramentas de teste ficam fora.
+/*
+!/.gitignore
+!/.github/
+!/app/
+!/README.md
+/app/node_modules/
+/app/dist/
+/app/dev/
